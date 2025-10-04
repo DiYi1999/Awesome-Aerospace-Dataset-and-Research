@@ -8,17 +8,14 @@ One of the major challenges we have encountered while conducting research on spa
 
 Therefore, we have released the [XJTU-SPS Dataset](https://diyi1999.github.io/XJTU-SPS/) and expanded its associated community into this resource repository, aiming to provide a platform for resource sharing, communication, and discussion for researchers in the field of aerospace.
 
-
-
-```
 If you find some useful datasets, benchmarks, methods, survey papers, or projects related to aerospace, please feel free to submit a Merge / Pull Request to add them to this repository.
 
 If you have any questions or suggestions wanting to discuss, please feel free to open an Issue or Discussion.
 
 Even you can substantially reorganize the README, open new sections, or introduce additional categories whenever such changes would serve the research community.
 
-This github repository is not part of any paper, project, or secret evil plan for world domination, just a cozy corner of the aerospace field for sharing, learning, and dissussing, So feel free to contribute anything you want.
-```
+This GitHub repository is not part of any paper, project, or secret evil plan for world domination, just a cozy corner of the aerospace field for sharing, learning, and discussing, so feel free to contribute anything you want.
+
 
 
 
