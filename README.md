@@ -2,7 +2,7 @@
 
 Last updated: 2025/10/04
 
-🔥🔥🔥 This is an awesome repository for aerospace datasets and research resources! Feel free to contribute by submitting Merge / Pull Requests and engaging in Issues / Discussions. 🔥🔥🔥
+🔥🔥🔥 **This is an awesome repository for aerospace datasets and research resources! Feel free to contribute by submitting Merge / Pull Requests and engaging in Issues / Discussions.** 🔥🔥🔥
 
 One of the major challenges we have encountered while conducting research on spacecraft power systems was the scarcity of publicly available datasets due to the strict confidentiality in this field. 
 Therefore, we have released the [XJTU-SPS Dataset](https://diyi1999.github.io/XJTU-SPS/) and expanded its associated community into this resource repository, aiming to provide a platform for resource sharing, communication, and discussion for researchers in the field of areospace.
@@ -28,9 +28,9 @@ Therefore, we have released the [XJTU-SPS Dataset](https://diyi1999.github.io/XJ
 ## Public Aerospace Dataset
 
 #### XJTU-SPS Dataset
-- **Description**: The XJTU-SPS Dataset is a comprehensive dataset specifically designed for spacecraft power systems. It includes various parameters and measurements related to the performance and operation of spacecraft power systems, making it a valuable resource for researchers in the field.
+- **Description**: The XJTU-SPS Dataset is a comprehensive spacecraft power system dataset, consists of four sub-datasets: (1) XJTU-SPS for Forecasting or Reconstruction (XJTU-SPS for F or R), (2) XJTU-SPS for Work Mode Recognition (XJTU-SPS for MR), (3) XJTU-SPS for Anomaly Detection (XJTU-SPS for AD), and (4) XJTU-SPS for Anomaly Location / Fault Diagnosis (XJTU-SPS for AL or FD).
 - **Link**: [XJTU-SPS Dataset](https://diyi1999.github.io/XJTU-SPS/)
-- **Reference**: [Paper](https://ieeexplore.ieee.org/document/10070923)
+- **Reference**: [Paper](https://diyi1999.github.io/XJTU-SPS/)
 
 #### NASA ...
 - **Description**: ...
