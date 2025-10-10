@@ -4,6 +4,8 @@ Last updated: 2025/10/04
 
 🔥🔥🔥 **This is an awesome repository for aerospace datasets and research resources! Feel free to contribute by submitting Merge / Pull Requests and engaging in Issues / Discussions.** 🔥🔥🔥
 
+**Note:** This resource library only focuses on Astronautics, not Aeronautics.
+
 One of the major challenges we have encountered while conducting research on spacecraft power systems was the scarcity of publicly available datasets due to the strict confidentiality in this field. 
 
 Therefore, we have released the [XJTU-SPS Dataset](https://diyi1999.github.io/XJTU-SPS/) and expanded its associated community into this resource repository, aiming to provide a platform for resource sharing, communication, and discussion for researchers in the field of aerospace.
